@@ -1,0 +1,8 @@
+Flask
+rvc-python
+scipy
+torch==2.6.0
+torchaudio==2.6.0
+fairseq
+pydub==0.25.1
+
